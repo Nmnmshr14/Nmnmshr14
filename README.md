@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing a Bachelor's degree in Engineering<br>I'm a full stack developer with hands-on experience in C, C++, Python, DEV OPS<br>I focus on strengthening my problem-solving skills and writing clean code, efficient code<br>My hobby is to play chess<br>
+I'm currently pursuing a Bachelor's degree in Engineering<br>I'm a full stack developer with hands-on experience in C, C++, Python, DEV OPS<br>I focus on strengthening my problem-solving skills and writing clean code, efficient code<br>
 
 
 ## 🌐 Socials:
